@@ -1,10 +1,10 @@
 ---
 layout: default
-title: The Bike Pit!
+title: The Douala Food Market !
 ---
 
-# A free, volunteer run bicycle shop.
+# The first Food & #MadeInCameroon event all in one.
 
 ![The Bike Pit](https://s3.amazonaws.com/BikePit/images/bikepit.jpg)
 
-The Bike Pit is a space that focuses on building bicycle maintenance skills, community, and relationships. 
+BIEN MANGER, PARTAGER, DÉCOUVRIR. 
