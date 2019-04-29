@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bike Pit
+title: Douala Food Market
 ---
 
 # Contact
@@ -13,11 +13,9 @@ Do you...
 
 If so, please feel free to contact us at
 
-__[411bikepit@gmail.com](mailto:411bikepit@gmail.com)__
+__[doualafoodmarket@gmail.com](mailto:doualafoodmarket@gmail.com)__
 
 
-or find us on [facebook](http://www.facebook.com/411bikepit). We also love talking to people in person.
+or find us on [facebook](http://www.facebook.com/DoualaFoodMarket). 
 
-## Location
 
-We are located at 411 Lipan St., on the corner of 4th and Lipan. The right side of the fence is our entrance. Keep an eye out for bike wheels and upside down tall bikes for landmarks.
