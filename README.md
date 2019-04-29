@@ -1,4 +1,4 @@
-bikepit
+DOUALA FOOD MARKET
 =======
 
-The Bike Pit website.
+The Douala Food Market website.
