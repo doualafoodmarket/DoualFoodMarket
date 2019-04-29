@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Bike Pit
+title: About Douala Food Market
 ---
 
 # About
